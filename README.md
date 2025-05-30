@@ -86,5 +86,5 @@ Indian Institute of Technology Jodhpur
 
 ## 📬 Contact
 
-For questions or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com) or email at *your.email@example.com*.
+For questions or collaborations, feel free to reach out via [LinkedIn]((https://www.linkedin.com/in/umashankar-prajapati-21946925b/)) or email at imumashankar8@gmail.com.
 
